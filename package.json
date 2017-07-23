@@ -1,5 +1,5 @@
 {
-  "name": "gradebook",
+  "name": "grade-book",
   "version": "1.0.0",
   "description": "This is code for Add grade and average grade",
   "main": "program.js",
