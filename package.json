@@ -1,0 +1,29 @@
+{
+  "name": "gradebook",
+  "version": "1.0.0",
+  "description": "This is code for Add grade and average grade",
+  "main": "program.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu-github-072017/grade-book.git"
+  },
+  "keywords": [
+    "gradebook"
+  ],
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshu-github-072017/grade-book/issues"
+  },
+  "homepage": "https://github.com/himanshu-github-072017/grade-book#readme"
+}
